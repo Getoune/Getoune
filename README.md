@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Getoune, I am an young studient.
+- 👀 I’m interested in cinema, math, physique, music
+- 🌱 I’m currently learning math, physique, python, for a project I begin to try C and C++
+- 💞️ I’m looking to collaborate on every project, I am interested in many things so the only criter is the utilities of the project 
+- 📫 You can join me with Discord (getoune#1817) 
