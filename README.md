@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Getoune, I am a french studient.
+- 👋 Hi, I’m @Getoune, I am a french studient at University of Bourgogne.
 - 👀 I’m interested in cinema, physique, music and knitting !
-- 🌱 I’m currently learning Physics, Risc-V Assembly and I begin to learn Haskell !
+- 🌱 I’m currently learning Haskell, Risc-V Assembly and I begin to learn G Code !
 - 💞️ I’m looking to collaborate on every project, I am interested in many things I just want to learn/help :D
 - 📫 You can join me with Discord (getoune#1897) 
