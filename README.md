@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Getoune, I am a french studient at University of Bourgogne.
+- 👋 Hi, I’m @Getoune, I am a french studient at University of Bourgogne in Mechanical and Production Engineering.
 - 👀 I’m interested in cinema, physique, music and knitting !
-- 🌱 I’m currently learning Haskell, Risc-V Assembly and I begin to learn G Code !
+- 🌱 I’m currently learning Haskell and Risc-V Assembly !
 - 💞️ I’m looking to collaborate on every project, I am interested in many things I just want to learn/help :D
+- 📷 I am working in the creation of a new light meter for Zenit TTL Camera
 - 📫 You can join me with Discord (getoune#1897) 
